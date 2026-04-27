@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notes-kb": {
+      "command": "/Users/megpatakota/git_projects/all_claude/.venv/bin/python",
+      "args": ["/Users/megpatakota/git_projects/all_claude/server/notes_server.py"]
+    }
+  }
+}

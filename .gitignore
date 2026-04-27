@@ -1,3 +1,6 @@
+# Local MCP server state
+server/notes_store.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
